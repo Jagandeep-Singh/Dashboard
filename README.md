@@ -40,10 +40,6 @@ The dashboard allows users to refine the data using the following filters:
 
 #### 1️⃣ **Line Chart**  
 - **Purpose**: Analyze ticket class distribution against average fares.  
-- **Axes**:  
-  - X-Axis: Passenger ID  
-  - Y-Axis: Average Fare  
-- **Legend**: Ticket Class (1, 2, 3)  
 
 #### 🍩 **Donut Chart**  
 - **Purpose**: Visualize passenger distribution by embarkation point.  
