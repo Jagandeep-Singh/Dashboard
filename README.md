@@ -30,6 +30,7 @@ This report outlines a stepwise approach to analyzing Titanic passenger data. It
 ---
 
 ## 📊 **Dashboard**
+Explore the interactive dashboard here: [Titanic Dashboard]( https://jagandeep-singh.github.io/Titanic/)
 
 ### **Filters Applied**  
 The dashboard allows users to refine the data using the following filters:  
