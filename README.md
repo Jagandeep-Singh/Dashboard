@@ -29,7 +29,7 @@ This report outlines a stepwise approach to analyzing Titanic passenger data. It
 
 ---
 
-## 📊 **Step 3: Dashboard Creation**
+## 📊 **Dashboard**
 
 ### **Filters Applied**  
 The dashboard allows users to refine the data using the following filters:  
@@ -50,7 +50,7 @@ The dashboard allows users to refine the data using the following filters:
 
 ---
 
-## 🔍 **Step 4: Insights Drawn**
+## 🔍 **Insights Drawn**
 
 ### **Demographic Patterns**
 - **Total Passengers**: 891  
@@ -68,7 +68,7 @@ The dashboard allows users to refine the data using the following filters:
 
 ---
 
-## 🌟 **Step 5: Conclusion**
+## 🌟 **Conclusion**
 
 The Titanic dashboard provides a comprehensive, interactive exploration of passenger data. By applying filters, users can uncover nuanced insights into survival rates, fare distribution, and demographic characteristics. This project demonstrates:  
 1. The influence of embarkation points on passenger demographics.  
